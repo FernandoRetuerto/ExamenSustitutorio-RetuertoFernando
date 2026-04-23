@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppRetuertoFernando</string>
+    <string name="textusuario">Usuario</string>
+    <string name="textpassword">Password</string>
+    <string name="textlogin">INGRESAR</string>
+    <string name="textcerrarsesion">CERRAR SESIÓN</string>
+</resources>
